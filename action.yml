@@ -1,6 +1,6 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Composite Action'
+description: 'Swethas First Test'
+author: 'Swetha Hedlund'
 
 # Define your inputs here.
 inputs:
